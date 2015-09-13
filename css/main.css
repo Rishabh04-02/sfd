@@ -185,6 +185,7 @@ body > section,
 
 #slider .carousel-inner .item {
   background-size: cover;
+
 }
 
 .carousel-caption {
@@ -194,22 +195,30 @@ body > section,
 .carousel-caption h2 {
   font-size: 62px;
   font-weight: 300;
+  outline-color: black;
+  outline-width: 2;
 }
 
 .carousel-caption h2 span {
   font-weight: 800;
+  outline-color: black;
+  outline-width: 2;
 }
 
 .carousel-caption h3 {
   font-size: 48px;
   font-weight: 300;
   margin: 6px 0 20px;
+  outline-color: black;
+  outline-width: 2;
 }
 
 .carousel-caption p {
   color: #fff;
   font-size: 18px;
   font-weight: 300;
+  outline-color: black;
+  outline-width: 2;
 }
 
 .carousel-caption p:before,
